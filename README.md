@@ -1,0 +1,1 @@
+A simple lexical analyzer created using the unix tool named "lex", Takes as an input the path to a MiniC source code file and outputs each part of this code along with its classification, also builds up a hash-table of each primitive value found.
